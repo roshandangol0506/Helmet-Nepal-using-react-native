@@ -31,4 +31,3 @@ users can easily browse and purchase their desired accessories.
 1. **Clone the repository**  
    ```sh
    https://github.com/roshandangol0506/Helmet-Nepal-using-react-native.git
-   cd Helmet-Nepal
