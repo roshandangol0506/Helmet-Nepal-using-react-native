@@ -15,8 +15,9 @@ users can easily browse and purchase their desired accessories.
 - **Upload Products**: Sellers can list their bike accessories with ease.  
 - **Delete Products**: Manage and remove products from the store.
 
-- Admin Relations
-- 
+
+Admin Relations
+
 Admin |||--- manages ---||| Users & Sellers
 
 Admin |||--- monitors ---||| Product Listings
