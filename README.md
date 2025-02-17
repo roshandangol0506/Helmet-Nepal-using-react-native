@@ -13,7 +13,58 @@ users can easily browse and purchase their desired accessories.
 
 ### 🏪 **Seller Features**  
 - **Upload Products**: Sellers can list their bike accessories with ease.  
-- **Delete Products**: Manage and remove products from the store.  
+- **Delete Products**: Manage and remove products from the store.
+
+- Admin Relations
+- 
+Admin |||--- manages ---||| Users & Sellers
+
+Admin |||--- monitors ---||| Product Listings
+
+Admin |||--- handles disputes for ---||| Transactions
+
+
+User (Customer) Relations
+
+Customer |||--- buys ---||| Products
+
+Customer |||--- adds to ---||| Cart
+
+Customer |||--- searches for ---||| Products
+
+
+Seller Relations
+
+Seller |||--- uploads ---||| Products
+
+Seller |||--- deletes ---||| Own Products
+
+
+Product Relations
+
+Product |||--- belongs to ---||| Category (Helmets, Apparel, Tires, etc.)
+
+Product |||--- is listed by ---||| Seller
+
+Product |||--- is purchased by ---||| Customer
+
+
+Cart & Checkout Relations
+
+Cart |||--- contains ---||| Products
+
+Cart |||--- belongs to ---||| Customer
+
+Cart |||--- leads to ---||| Checkout
+
+
+
+Authentication & Security
+
+User |||--- logs in via ---||| Google OAuth
+
+User |||--- has access to ---||| My Cart & Order History
+
 
 ## 🛠️ **Tech Stack**  
 - **Frontend**: React Native  
